@@ -1,0 +1,7 @@
+cypress/e2e/QABolideai/widget-visible/all-features-visible-on-page.cy.js
+cypress/e2e/QABolideai/widget-visible/ANB-visible-on-page.cy.js
+cypress/e2e/QABolideai/widget-visible/CTB-visible-on-page.cy.js
+cypress/e2e/QABolideai/widget-visible/ECB-visible-on-page.cy.js
+cypress/e2e/QABolideai/widget-visible/FSB-visible-on-page.cy.js
+cypress/e2e/QABolideai/widget-visible/SB-visible-on-page.cy.js
+cypress/e2e/QABolideai/widget-visible/UCS-visible-on-page.cy.js
